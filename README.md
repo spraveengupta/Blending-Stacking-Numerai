@@ -1,0 +1,2 @@
+# FeatureTransformation
+I participate in a competition - numerai, where data science is used for stock market predictions.  I was interested to know more about the usage of machine learning in stock market. I explored different machine learning techniques such as blending, stacking and created new machine learning models.  Usually a package in sklearn is used for K-Folded CV.  To make the CV more robust, I created a code in python which would create the folds manually.
